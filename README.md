@@ -10,8 +10,7 @@ I enjoy building practical AI systems, experimenting with modern machine-learnin
 
 [![GitHub](https://img.shields.io/badge/GitHub-Swagatade-181717?style=for-the-badge\&logo=github)](https://github.com/Swagatade)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swagata%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagata-dey-6a6b57252)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:swagatadeyswagatadey534@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=swagatadeyswagatadey534@gmail.com)
 </div>
 
 ---
