@@ -235,12 +235,6 @@ I have also participated in open-source development programs and collaborative t
 
 <br><br>
 
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Swagatade&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
-
-</div>
-
 ---
 
 # 🧑‍💻 Engineering Focus
@@ -255,29 +249,6 @@ I have also participated in open-source development programs and collaborative t
 |        YOLO       | Cloud Native |       CI/CD       | Model Inference |
 
 </div>
-
----
-
-# 🚀 What I'm Building
-
-```text
-Artificial Intelligence
-        │
-        ├── 🤖 LLM Applications
-        ├── 👁️ Computer Vision
-        ├── 🧠 Generative AI
-        │
-        ▼
-   AI Engineering
-        │
-        ├───────────────┐
-        ▼               ▼
- ☁️ Cloud          ⚙️ DevOps / MLOps
-        │               │
-        └───────┬───────┘
-                ▼
-       🚀 Production AI Systems
-```
 
 ---
 # 🎯 Current Goals
