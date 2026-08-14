@@ -207,7 +207,79 @@ I have also participated in open-source development programs and collaborative t
 </div>
 
 ---
+# 📈 Developer Analytics
 
+<div align="center">
+
+### ⚡ GitHub Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Swagatade&theme=github-compact&hide_border=true&area=true" alt="Swagata Dey GitHub Contribution Graph">
+
+<br>
+
+### 📊 Profile Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swagatade&theme=github_dark" alt="GitHub Statistics">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swagatade&theme=github_dark&utcOffset=5.5" alt="Productive Time">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swagatade&theme=github_dark" alt="Repositories Per Language">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swagatade&theme=github_dark" alt="Most Used Commit Languages">
+
+<br><br>
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Swagatade&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak">
+
+<br><br>
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Swagatade&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
+
+</div>
+
+---
+
+# 🧑‍💻 Engineering Focus
+
+<div align="center">
+
+| 🤖 AI Engineering |   ☁️ Cloud   | ⚙️ DevOps / MLOps |     🧠 GenAI    |
+| :---------------: | :----------: | :---------------: | :-------------: |
+|        LLMs       |      AWS     |       Docker      |       RAG       |
+|  Computer Vision  |     Azure    |     Kubernetes    |    AI Agents    |
+|      PyTorch      | Google Cloud |      Jenkins      |    Local LLMs   |
+|        YOLO       | Cloud Native |       CI/CD       | Model Inference |
+
+</div>
+
+---
+
+# 🚀 What I'm Building
+
+```text
+Artificial Intelligence
+        │
+        ├── 🤖 LLM Applications
+        ├── 👁️ Computer Vision
+        ├── 🧠 Generative AI
+        │
+        ▼
+   AI Engineering
+        │
+        ├───────────────┐
+        ▼               ▼
+ ☁️ Cloud          ⚙️ DevOps / MLOps
+        │               │
+        └───────┬───────┘
+                ▼
+       🚀 Production AI Systems
+```
+
+---
 # 🎯 Current Goals
 
 I am currently focused on combining **AI Engineering, Cloud Infrastructure, and DevOps/MLOps** to build scalable, production-ready intelligent systems.
