@@ -195,21 +195,15 @@ I have also participated in open-source development programs and collaborative t
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swagatade&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swagatade&theme=github_dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagatade&layout=compact&hide_border=true" />
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Swagatade&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Swagatade&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
