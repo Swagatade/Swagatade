@@ -211,19 +211,15 @@ I have also participated in open-source development programs and collaborative t
 
 # 🎯 Current Goals
 
-I am currently working toward becoming an engineer capable of combining:
+I am currently focused on combining **AI Engineering, Cloud Infrastructure, and DevOps/MLOps** to build scalable, production-ready intelligent systems.
 
-### 🤖 AI Engineering
+### 🚀 My Focus Areas
 
-*
+- 🤖 **AI Engineering** — LLMs, Computer Vision, Generative AI, AI Agents
+- ☁️ **Cloud Infrastructure** — AWS, Containers, Kubernetes, Cloud-Native Systems
+- ⚙️ **DevOps & MLOps** — CI/CD, Automation, Observability, Model Deployment
 
-### ☁️ Cloud Infrastructure
-
-*
-
-### ⚙️ DevOps & MLOps
-
-to build **reliable, scalable and production-ready AI systems**.
+> **Goal:** Build reliable, scalable, and production-ready AI systems that connect intelligent models with modern cloud infrastructure.
 
 ---
 
