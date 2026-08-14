@@ -269,29 +269,13 @@ I am currently focused on combining **AI Engineering, Cloud Infrastructure, and 
 
 # 🤝 Let's Connect
 
-I'm interested in:
-
-**AI/ML Projects • Open Source • Internships • DevOps • Cloud • Research • Engineering Opportunities**
-
-<div align="center">
-
-# 🤝 Let's Connect
-
-I'm open to **AI/ML projects, open-source collaboration, internships, DevOps, cloud, research, and engineering opportunities.**
-
-<br>
-
-<div align="center">
-
-# 🤝 Let's Connect
-
 I'm open to **AI/ML projects, open-source collaboration, internships, DevOps, cloud, research, and engineering opportunities.**
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Swagatade-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swagatade)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swagata-dey-6a6b57252)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swagatadeyswagatadey534@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=swagatadeyswagatadey534@gmail.com)
 
 <br><br>
 
