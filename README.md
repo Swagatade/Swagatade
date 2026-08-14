@@ -232,7 +232,7 @@ I'm interested in:
 **AI/ML Projects • Open Source • Internships • DevOps • Cloud • Research • Engineering Opportunities**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Swagatade-181717?style=for-the-badge\&logo=github)](https://github.com/Swagatade)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/Swagata%20Dey)
+[![LinkedIn](https://www.linkedin.com/in/swagata-dey-6a6b57252)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:swagatadeyswagatadey534@gmail.com)
 
 ### 💡 *Building intelligent systems, learning continuously, and turning ideas into technology.*
